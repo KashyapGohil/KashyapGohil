@@ -1,7 +1,7 @@
 ### <div align="center">Hey there! I'm Kashyap 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning AWS   
+- 🌱 I’m deeply passionate about learning new digital and cloud technologies. Currently, interested and the area of focus is the data engineering domain and related technologies.   
   
 
 - ❓ Ask me about anything related to Data Science and Machine learning  
